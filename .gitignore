@@ -1,3 +1,5 @@
 ./resources/images/
-./resources/music
+./resources/music/
 ./client.secret.json
+./data/titles.txt
+./output/
