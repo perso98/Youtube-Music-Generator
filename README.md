@@ -1,8 +1,5 @@
 # Youtube-Music-Generator
 
-
-# YouTube Music Generator
-
 ## Przegląd
 
 YouTube Music Generator to zautomatyzowane narzędzie do tworzenia i przesyłania filmów muzycznych na YouTube. Program łączy grafikę z dźwiękami, tworząc unikalne filmy z miniaturkami. Dodatkowo planuje publikację filmów na podstawie określonej daty początkowej i liczby filmów do opublikowania.
