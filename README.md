@@ -34,7 +34,7 @@ src/             # Folder zawierający funkcje
 3. **Generowanie filmów**: Program losowo wybiera obraz z folderu `images` i łączy go z 20 losowymi nutami z folderu `music`.
 4. **Tworzenie miniaturek**: Tworzy miniaturkę z wybranego obrazu.
 5. **Planowanie**: Rozkłada filmy równomiernie na dni, publikując 2 filmy dziennie o 7:00 i 19:00.
-6. **Przesyłanie**: Automatycznie przesyła filmy na YouTube wraz z wygenerowanymi miniaturkami.
+6. **Przesyłanie**: Automatycznie przesyła filmy na YouTube wraz z wygenerowanymi miniaturkami i tytułem pobranym z folderu data plik titles.txt.
 
 **Wynik**:
 
